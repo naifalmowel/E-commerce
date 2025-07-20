@@ -37,9 +37,13 @@ Add Firebase config script for Web (firebase-config.js)
 4. Run the app: flutter run
 
 📌 Notes
+
 This is a personal project, not affiliated with any company.
+
 Screenshots will be added soon to better showcase the UI.
+
 The codebase is clean and modular for easy scaling and maintenance.
+
 ---
 
 ## 📧 Contact
