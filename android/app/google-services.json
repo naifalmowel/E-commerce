@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970199102973",
+    "firebase_url": "https://sumer-bc931-default-rtdb.firebaseio.com",
+    "project_id": "sumer-bc931",
+    "storage_bucket": "sumer-bc931.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970199102973:android:93ca14f23819b0a398d594",
+        "android_client_info": {
+          "package_name": "com.example.sumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970199102973-ti6hki6u3vqa0ruq5kmdjcpakafqoods.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sumer",
+            "certificate_hash": "4020479c5569eb2f6abdd3aa22f8dcb8a45e177b"
+          }
+        },
+        {
+          "client_id": "970199102973-q2mq4sqdt5vjlnrrpvct0ds9dodeqfm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnO5XKgghzXWLhoKs3au_7lpHaxoe4loU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970199102973-q2mq4sqdt5vjlnrrpvct0ds9dodeqfm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
